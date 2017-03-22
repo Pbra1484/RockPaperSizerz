@@ -3,11 +3,12 @@ package sizerz.model;
 public class Computer 
 {
 	
-	Computer()
+	public Computer()
 	{
 		
 	}
 	
+	//returns a string for the computers random input
 	public String randomGess()
 	{
 		String returned = "";
